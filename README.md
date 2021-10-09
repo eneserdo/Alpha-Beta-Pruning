@@ -1,9 +1,9 @@
 # Alpha-Beta-Pruning
 
 
-Implementation of Alpha-beta pruning, A generic algorithm to find the optimum move in the game of chess. Also, visualized via SFML.
+Implementation of Alpha-beta pruning, a generic algorithm to find the optimum move in the game of chess (or any turn-based games). Also, visualized via SFML.
 
-This project was done as a C++ practice.
+This fun project was done to practice C++
 
 ## Usage
 

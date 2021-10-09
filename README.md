@@ -8,7 +8,9 @@ This project was done as a C++ practice.
 ## Usage
 
 <kbd>b</kbd>: Creates next moves (birth)
+
 <kbd>p</kbd>: Finds the optimum move (pruning)
+
 <kbd>Esc</kbd> or <kbd>q</kbd>: Quits
 
 It create random tree with random evaluations.

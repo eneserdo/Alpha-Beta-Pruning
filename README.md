@@ -32,6 +32,4 @@ It create random tree with random evaluations.
 
 ## Bonus
 
-(Eng) [How the Artificial-Intelligence Program AlphaZero Mastered Its Games](https://www.newyorker.com/science/elements/how-the-artificial-intelligence-program-alphazero-mastered-its-games)
-
-(Tur) [AlphaZero Nasıl Satranç Ustası Oldu?](https://eneserdoan.medium.com/%C3%A7eviri-alphazero-nas%C4%B1l-satran%C3%A7-ustas%C4%B1-oldu-1c107a67d9c4)
+(Eng) [How the Artificial-Intelligence Program AlphaZero Mastered Its Games](https://www.newyorker.com/science/elements/how-the-artificial-intelligence-program-alphazero-mastered-its-games) / (Tur) [AlphaZero Nasıl Satranç Ustası Oldu?](https://eneserdoan.medium.com/%C3%A7eviri-alphazero-nas%C4%B1l-satran%C3%A7-ustas%C4%B1-oldu-1c107a67d9c4)

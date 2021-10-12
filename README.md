@@ -25,4 +25,4 @@ It create random tree with random evaluations.
 
 https://www.naftaliharris.com/blog/chess/
 
-(Algorithms Explained – minimax and alpha-beta pruning)[https://youtu.be/l-hh51ncgDI] by Sebastian Lague
+[Algorithms Explained – minimax and alpha-beta pruning](https://youtu.be/l-hh51ncgDI) by Sebastian Lague

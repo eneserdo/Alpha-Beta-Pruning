@@ -19,6 +19,7 @@ It create random tree with random evaluations.
 
 * Currently, only doing the minimax, not alpha-beta pruning
 * Steps of the minimax or alpha-beta is not visible
+* Make necessary changes as if rest of the chess engine is there.
 
 
 ## REFERENCES

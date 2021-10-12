@@ -23,10 +23,8 @@ It create random tree with random evaluations.
 
 ## REFERENCES
 
-[1]
+[1] [How My Chess Engine Works](https://www.naftaliharris.com/blog/chess/)
 
+[2] [Algorithms Explained – minimax and alpha-beta pruning](https://youtu.be/l-hh51ncgDI) by Sebastian Lague
 
-
-[How My Chess Engine Works](https://www.naftaliharris.com/blog/chess/)
-
-[Algorithms Explained – minimax and alpha-beta pruning](https://youtu.be/l-hh51ncgDI) by Sebastian Lague
+[3] 

@@ -19,3 +19,10 @@ It create random tree with random evaluations.
 
 * Currently, only doing the minimax, not alpha-beta pruning
 * Steps of the minimax or alpha-beta is not visible
+
+
+## REFERENCES
+
+https://www.naftaliharris.com/blog/chess/
+
+(Algorithms Explained – minimax and alpha-beta pruning)[https://youtu.be/l-hh51ncgDI] by Sebastian Lague
